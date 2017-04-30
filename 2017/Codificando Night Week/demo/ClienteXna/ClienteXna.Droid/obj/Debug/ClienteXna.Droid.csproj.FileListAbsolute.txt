@@ -1,0 +1,141 @@
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.pdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.apk
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid-Signed.apk
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\DotNetCross.Memory.Unsafe.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\FormsViewGroup.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Realm.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Remotion.Linq.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Realm.xml
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Remotion.Linq.xml
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.csprojResolveAssemblyReference.cache
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.App.xaml.g.cs
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.View.MainPage.xaml.g.cs
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.View.Cliente.xaml.g.cs
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.View.Listar.xaml.g.cs
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.dll
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.pdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\bin\ClienteXna.Droid.apk
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\res\drawable\icon.png
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\R.cs.flag
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\uploadflags.txt
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Core.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\ClienteXna.Droid.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Blog MHBS\Real - Um alternativa ao sqlLite\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.pdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.apk
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid-Signed.apk
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\DotNetCross.Memory.Unsafe.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Realm.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Remotion.Linq.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Realm.xml
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Remotion.Linq.xml
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.csprojResolveAssemblyReference.cache
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.App.xaml.g.cs
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.View.MainPage.xaml.g.cs
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.View.Cliente.xaml.g.cs
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.View.Listar.xaml.g.cs
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.dll
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.pdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\bin\ClienteXna.Droid.apk
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\R.cs.flag
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\uploadflags.txt
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\ClienteXna.Droid.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\obj\Debug\ClienteXna.Droid.dll.mdb
+C:\Users\mhbs\Dropbox\Palestras\Realm\ClienteXna\ClienteXna\ClienteXna.Droid\bin\Debug\ClienteXna.Droid.dll.mdb
